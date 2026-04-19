@@ -1,3 +1,4 @@
+Unzip the file
 1. Make sure you have KubeJS installed.
 2. Enter the folder "kubejs" inside your game files. It is automatically generated after running the game for the first time0
 3. Move the files/folder:
